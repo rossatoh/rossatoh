@@ -12,7 +12,7 @@
   <img align="center" alt="ross-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ross-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ross-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="ross-mob" src="https://64.media.tumblr.com/ff3a60ae2a0afca0c53c79d900665776/tumblr_ocomae7P6a1rhgqlxo2_r1_500.gifv">
+  <img align="right" alt="ross-mob" width="200" src="https://media2.giphy.com/media/hzx9toaSQPHRm/giphy.gif?cid=790b76115263ee19f7a094916d382ba77f4bc820794c966d&rid=giphy.gif&ct=g">
 </div>
 
   
