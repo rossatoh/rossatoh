@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Pedro Henrique. 👋
 
-- 🌱 Estou aprendendo Python e JS.
+- 🌱 Learning something new everyday.
 ##
  <div>
   <a href="https://github.com/rossatoh">
